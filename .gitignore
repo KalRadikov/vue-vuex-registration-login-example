@@ -39,4 +39,5 @@ typings
 
 # Dist directory
 dist
+
 /.idea
